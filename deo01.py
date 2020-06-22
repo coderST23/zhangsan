@@ -39,6 +39,13 @@
 # print(len(a))
 
 
-a = input('1请输入：')
-b = input('2请输入：')
-print(len(a+b))
+# a = input('1请输入：')
+# b = input('2请输入：')
+# print(len(a+b))
+# # print (a[3])
+# print(a.index(2))
+# print(a.count('哈哈'))
+
+a = (1,2,3,'哈哈','gagaphn',235,'hga',1)
+b = (a,1)
+print(b[1]
